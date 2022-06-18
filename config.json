@@ -1,0 +1,4 @@
+{
+  "connection_string": "new_user:new_password@tcp(127.0.0.1:3306)/golang",
+  "port" : 8080
+}
